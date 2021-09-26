@@ -1,0 +1,74 @@
+[
+  {
+    "placeName": "Cox-Bazar",
+    "cost": 1000,
+    "vehicle": "Bus",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfCy4E_0P0sWysqOu28gfa399lDTeytlrnK3RL0HwdeSiB06LGtm3r_4ol9QKE5jZsPjg&usqp=CAU",
+    "zilla": "coxbazar",
+    "isSecure": "true"
+  },
+  {
+    "placeName": "Naphakhum Falls",
+    "cost": 4200,
+    "vehicle": "Bus,Boat",
+    "image": "https://bangla.tourtoday.com.bd/wp-content/uploads/2018/04/Nafakhum-Waterfall.jpg",
+    "zilla": "BandarBan",
+    "isSecure": "Dangerous"
+  },
+  {
+    "placeName": "Sundarban",
+    "cost": 10000,
+    "vehicle": "Bus",
+    "image": "https://dailyasianage.com/library/1582060099_9.jpg",
+    "zilla": "Khulna",
+    "isSecure": "false"
+  },
+  {
+    "placeName": "Jaflong",
+    "cost": 5200,
+    "vehicle": "Bus",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQWbUh5QV2hu5TgWkMO2ZjArtrqlVo2o0EZPF89Ggw4n9Pql3N0pL8sPyPs8hP9yFgMGI&usqp=CAU",
+    "zilla": "Sylet",
+    "isSecure": "true"
+  },
+  {
+    "placeName": "Sajek Vally",
+    "cost": 5500,
+    "vehicle": "Bus",
+    "image": "https://porzoton.com/wp-content/uploads/2020/12/Sajek-valley-covered-with-white-clouds.jpg",
+    "zilla": "Chittagonghttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXNScEpYlhv9y0taVqUVxUBv3-z3F5mZePwA&usqp=CAU",
+    "isSecure": "true"
+  },
+  {
+    "placeName": "Kutubdiya",
+    "cost": 6200,
+    "vehicle": "Bus",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQWbUh5QV2hu5TgWkMO2ZjArtrqlVo2o0EZPF89Ggw4n9Pql3N0pL8sPyPs8hP9yFgMGI&usqp=CAU",
+    "zilla": "Chittagong",
+    "isSecure": "true"
+  },
+  {
+    "placeName": "Tangua Haor",
+    "cost": 11200,
+    "vehicle": "Bus",
+    "image": "https://porzoton.com/wp-content/uploads/2020/09/Tanguar-Haor.jpg",
+    "zilla": "Sunamganj",
+    "isSecure": "true"
+  },
+  {
+    "placeName": "Cent Martin",
+    "cost": 8500,
+    "vehicle": "Bus,Boat,Launch",
+    "image": "https://live.staticflickr.com/3855/15180493402_46dcc52535_b.jpg",
+    "zilla": "Cox-Bazar",
+    "isSecure": "Dangerous"
+  },
+  {
+    "placeName": "Kuakata",
+    "cost": 7100,
+    "vehicle": "Bus,Launch",
+    "image": "https://i.pinimg.com/originals/38/d0/42/38d042c848d06c54e5716303d39ed19c.jpg",
+    "zilla": "Patuakhali",
+    "isSecure": "true"
+  }
+]
