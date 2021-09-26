@@ -6,7 +6,7 @@ const Cart = (props) => {
     let count = 0;
     let nameArray = []
     let newArr = props.cart
-    console.log(newArr);
+    // console.log(newArr);
     for (const a of newArr) {
         count = count + 1;
         total = total + a.cost
